@@ -1,0 +1,42 @@
+#image{
+    border-radius: 50px;
+    border: brown;
+    display: table-cell;
+    margin-left: 34rem;
+    
+}
+ 
+
+#tb {
+    background-color:aquamarine;
+    color: black;
+    padding: 20px;
+    text-align: center;
+margin-left: 5rem;
+text-align: center;
+  }
+  #text {
+    background-color: lightblue;
+    color: black;
+    padding: 20px;
+    text-align: center;
+  }
+  @keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+  #div{
+      margin-left: 34rem;
+      animation-name: example;
+      animation-duration: 4s;
+  }
+
+  #nom {
+    background-color: rgb(170, 253, 16);
+    color: black;
+    padding: 20px;
+    text-align: center;
+  }
+  #link{
+      background-color: cornsilk;
+  }
